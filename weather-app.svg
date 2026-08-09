@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#152c52"/></linearGradient></defs>
+<rect width="900" height="520" rx="28" fill="url(#g)"/><circle cx="730" cy="120" r="70" fill="#f5c542" opacity=".9"/>
+<path d="M175 270c0-50 40-90 90-90 30 0 58 15 74 40 8-3 17-5 26-5 40 0 72 32 72 72H175z" fill="#dbeafe"/>
+<text x="55" y="75" fill="#93c5fd" font-size="28" font-family="Arial">PYTHON • TKINTER • OPENWEATHERMAP</text>
+<text x="55" y="420" fill="white" font-size="48" font-weight="700" font-family="Arial">Weather Forecast System</text>
+<text x="55" y="462" fill="#cbd5e1" font-size="22" font-family="Arial">Real-time weather • forecasts • charts • history</text></svg>

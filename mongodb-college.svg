@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="28" fill="#071a12"/><circle cx="450" cy="235" r="105" fill="#0b2f1e" stroke="#10b981" stroke-width="5"/>
+<path d="M450 145c22 45 40 67 40 105 0 38-18 69-40 95-22-26-40-57-40-95 0-38 18-60 40-105z" fill="#10b981"/>
+<path d="M450 150v180" stroke="#d1fae5" stroke-width="4"/>
+<rect x="120" y="385" width="660" height="34" rx="17" fill="#064e3b"/>
+<text x="55" y="70" fill="#34d399" font-size="28" font-family="Arial">MONGODB • DATABASE DESIGN • COMPASS</text>
+<text x="55" y="470" fill="white" font-size="44" font-weight="700" font-family="Arial">College Database System</text></svg>
